@@ -1,10 +1,10 @@
 package com.usil.hampcode;
 
 public enum TipoVehiculo {
-    LIVIANO(6.50),
-    MEDIANO(7.20),
-    PESADO(11.40),
-    MOTO(0.00);
+    LIVIANO(6.50),//tipoIndex 0
+    MEDIANO(7.20),//tipoIndex 1
+    PESADO(11.40),//tipoIndex 2
+    MOTO(0.00);//tipoIndex 3
     
     private final double tarifa;
     

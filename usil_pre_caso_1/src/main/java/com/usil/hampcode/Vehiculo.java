@@ -3,7 +3,6 @@ package com.usil.hampcode;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-
 @Data
 @NoArgsConstructor
 public class Vehiculo {
@@ -12,6 +11,6 @@ public class Vehiculo {
     
     public Vehiculo(TipoVehiculo tipo){
         this.tipo =tipo;
-        this.tarifa = this.getTarifa();
+        this.tarifa = tipo.getTarifa();
     }
 }
