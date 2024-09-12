@@ -1,0 +1,17 @@
+com\usil\hampcode\persistence\AutorRepository.class
+com\usil\hampcode\view\FrmCrearLibro$5.class
+com\usil\hampcode\view\FrmBuscarLibro$3.class
+com\usil\hampcode\persistence\LibroRepository.class
+com\usil\hampcode\view\FrmBuscarLibro$2.class
+com\usil\hampcode\model\Libro.class
+com\usil\hampcode\view\FrmCrearLibro$2.class
+com\usil\hampcode\model\Autor.class
+com\usil\hampcode\view\FrmCrearLibro.class
+com\usil\hampcode\controller\LibroController.class
+com\usil\hampcode\view\FrmCrearLibro$3.class
+com\usil\hampcode\controller\AutorController.class
+com\usil\hampcode\view\FrmBuscarLibro$1.class
+com\usil\hampcode\view\FrmCrearLibro$1.class
+com\usil\hampcode\view\FrmCrearLibro$4.class
+com\usil\hampcode\view\FrmBuscarLibro.class
+com\usil\hampcode\Usil_pre_demo_mvc.class

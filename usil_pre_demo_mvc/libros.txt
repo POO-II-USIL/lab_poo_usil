@@ -1,0 +1,22 @@
+978-84-376-0494-7;Cien Años de Soledad;Realismo mágico;Una saga familiar que abarca varias generaciones en un pueblo ficticio;false;true;Gabriel Garcia Marquez
+978-84-376-0495-4;El Amor en los Tiempos del Cólera;Romance;Una historia de amor épica a lo largo de varias décadas;false;false;Gabriel Garcia Marquez
+978-84-01-02075-8;La Casa de los Espíritus;Realismo mágico;Una saga familiar que explora temas políticos y sobrenaturales;true;false;Isabel Allende
+978-84-01-02076-5;Paula;Autobiografía;Una memoria personal y emocional sobre la vida de la autora y la muerte de su hija;false;true;Isabel Allende
+978-84-01-02077-2;Ficciones;Fantasía;Una colección de relatos que exploran lo metafísico y lo fantástico;true;true;Jorge Luis Borges
+978-84-01-02078-9;El Aleph;Fantasía;Un clásico de la literatura sobre la inmortalidad y los misterios del universo;false;true;Jorge Luis Borges
+978-84-376-0496-1;La Ciudad y los Perros;Drama;Una crítica feroz a la estructura militar y la juventud en un internado militar;true;false;Mario Vargas Llosa
+978-84-376-0497-8;Conversación en la Catedral;Política;Una novela que explora la corrupción política en Perú;false;true;Mario Vargas Llosa
+978-84-376-0498-5;Rayuela;Fantasía;Una historia que puede leerse en múltiples órdenes y caminos diferentes;true;true;Julio Cortázar
+978-84-376-0499-2;Final del Juego;Fantasía;Una colección de cuentos que explora lo surreal y lo fantástico;false;true;Julio Cortázar
+978-84-376-0500-1;La Muerte de Artemio Cruz;Ficción histórica;Un análisis de la historia mexicana a través de la vida de un hombre poderoso;true;false;Carlos Fuentes
+978-84-376-0501-8;Aura;Fantasía;Una historia corta con elementos fantásticos y misteriosos;false;true;Carlos Fuentes
+978-84-376-0502-5;Como Agua para Chocolate;Romance;Una historia de amor y tradición familiar con un toque mágico;true;true;Laura Esquivel
+978-84-376-0503-2;La Ley del Amor;Romance;Una historia de amor ambientada en un futuro distópico;false;true;Laura Esquivel
+978-84-376-0504-9;Veinte Poemas de Amor y una Canción Desesperada;Poesía;Una obra icónica de la poesía romántica;true;true;Pablo Neruda
+978-84-376-0505-6;Canto General;Poesía;Una obra poética épica que abarca la historia y la naturaleza de América Latina;false;true;Pablo Neruda
+978-84-376-0506-3;Libertad Bajo Palabra;Poesía;Una de las primeras colecciones de poesía de Octavio Paz;true;true;Octavio Paz
+978-84-376-0507-0;El Laberinto de la Soledad;Ensayo;Un profundo análisis de la identidad y cultura mexicanas;false;true;Octavio Paz
+978-84-376-0508-7;Pedro Páramo;Realismo mágico;Una novela que explora la vida después de la muerte y los fantasmas del pasado;true;false;Juan Rulfo
+978-84-376-0509-4;El Llano en Llamas;Realismo mágico;Una colección de cuentos sobre la vida rural en México;false;true;Juan Rulfo
+978-84-376-0510-0;El Ecosistema Perdido;Fantasía;Una historia sobre la restauración del medio ambiente en un mundo devastado;false;true;Henry Mendoza
+978-84-376-0511-7;La Tierra Prometida;Aventura;Una historia sobre la búsqueda de un mundo utópico;true;false;Henry Mendoza
